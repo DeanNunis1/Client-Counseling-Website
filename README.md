@@ -11,7 +11,6 @@ A modern and user-friendly portfolio website designed for a professional counsel
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript (or any framework if applicable).
-- **Backend**: *(Specify if you used something like Node.js, Flask, etc.)*
 - **Integration**: Calendly API for appointment scheduling.
 
 ## How to Use
